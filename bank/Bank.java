@@ -9,8 +9,8 @@ public class Bank {
         users.add(user);
     }
 
-    private static TestUser francescoUser = new TestUser(10000);
-    private static TestUser marioUser = new TestUser(50);
+    private static ContoCorrente francescoUser = new ContoCorrente(10000);
+    private static ContoCorrente marioUser = new ContoCorrente(50);
 
 
     public static void main(String[] args) throws Exception {

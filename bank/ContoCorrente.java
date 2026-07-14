@@ -1,9 +1,9 @@
 package bank;
 
-public class TestUser {
+public class ContoCorrente {
     private float balance;
 
-    public TestUser(float initialBalance) {
+    public ContoCorrente(float initialBalance) {
         this.balance = initialBalance;
     }
 
